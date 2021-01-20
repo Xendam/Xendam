@@ -3,8 +3,8 @@
         <title>Xendam System Readme</title>
     </head>
     <body>
-        <div align=“center”>
-             <p>about Xendam System width=“400“</p>
+        <div align=“left”>
+             <h1>about Xendam System</h1>
         </div>
     </body>
 </html>
