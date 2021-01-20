@@ -4,7 +4,7 @@
     </head>
     <body>
         <div align=“center”>
-             <h1>about Xendam System</h1>
+             <p>about Xendam System width=“400“</p>
         </div>
     </body>
 </html>
